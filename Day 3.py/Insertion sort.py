@@ -1,3 +1,4 @@
+#Insertion sort
 mylist = [64, 34, 25, 12, 22, 11, 90, 5]
 
 for i in range(1,len(mylist)):
